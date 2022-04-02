@@ -1,3 +1,10 @@
+# Twitter Data Pipeline
+
+projeto para estudos de tópicos de engenharia de dados: utilizando o apache airflow para automatizar chamadas a api do twitter e criar pipelines de dados.
+
+
+# Instalação do Ambiente
+
 cria e ativa ambiente virtual
 
 - mkdir datapipeline
@@ -28,3 +35,5 @@ acesse o webserver em http://localhost:8080
 inicialização serviço Scheduler
 
 - airflow scheduler
+
+renomear arquivo .env.exemple para .env
