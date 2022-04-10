@@ -1,3 +1,4 @@
 .datapipeline
-airflow
 .env
+airflow/logs/dag_processor_manager
+airflow/logs/scheduler
