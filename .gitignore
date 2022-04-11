@@ -2,3 +2,4 @@
 .env
 airflow/logs/dag_processor_manager
 airflow/logs/scheduler
+__pycache__/

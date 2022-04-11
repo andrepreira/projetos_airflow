@@ -59,11 +59,13 @@ pandas==1.1.4
 pendulum==1.4.4
 prison==0.1.3
 psutil==5.7.3
+py4j==0.10.9.3
 pycparser==2.20
 Pygments==2.7.2
 PyJWT==1.7.1
 pyparsing==2.4.7
 pyrsistent==0.17.3
+pyspark==3.2.1
 python-daemon==2.2.4
 python-dateutil==2.8.1
 python-dotenv==0.20.0
