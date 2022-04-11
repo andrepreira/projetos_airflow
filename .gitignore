@@ -1,5 +1,6 @@
 .datapipeline
 .env
-airflow/logs/dag_processor_manager
+airflow.db
+dag_processor_manager.log
 airflow/logs/scheduler
 __pycache__/
