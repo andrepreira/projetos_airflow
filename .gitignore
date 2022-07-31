@@ -1,6 +1,8 @@
-.datapipeline
+.datapipeline/
 .env
 airflow.db
 dag_processor_manager.log
 airflow/logs/scheduler
 __pycache__/
+*.pyc
+logs/
